@@ -1,5 +1,7 @@
 # devlake-telemetry-sidecar
 
+<!-- Test comment added to verify fullsend /fs-code functionality. -->
+
 A Prometheus exporter sidecar for Apache DevLake, part of the
 **Org Pulse Leading Forward Metrics**. It runs alongside the Lake pod, probes the Lake API
 with synthetic HTTP requests, polls pipeline run outcomes, and exposes metrics
